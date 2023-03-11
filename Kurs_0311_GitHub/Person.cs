@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kurs_0311_GitHub
 {
-    internal class Person
+    public class Person
     {
         public string Name { get; set; }
         public string Surname { get; set; }
